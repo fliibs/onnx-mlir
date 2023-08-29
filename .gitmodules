@@ -13,3 +13,6 @@
 [submodule "third_party/mlir-hlo"]
 	path = third_party/mlir-hlo
 	url = https://github.com/tensorflow/mlir-hlo.git
+[submodule "third_party/address_planner"]
+	path = third_party/address_planner
+	url = https://github.com/fliibs/address_planner.git
